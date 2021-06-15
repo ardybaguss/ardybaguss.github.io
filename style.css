@@ -1,0 +1,25 @@
+.jumbotron {
+  padding-top: 6rem;
+
+  background-color: #2a9d8f;
+}
+
+#projects {
+  background-color: #2a9d8f;
+}
+
+section {
+  padding-top: 5rem;
+}
+
+.container {
+  scroll-behavior: smooth;
+}
+
+.navbar {
+  background-color: #264653;
+}
+
+footer {
+  background-color: #264653;
+}
